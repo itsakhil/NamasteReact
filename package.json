@@ -1,0 +1,34 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "React Learning",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsakhil/NamasteReact.git"
+  },
+  "keywords": [
+    "akhil",
+    "react"
+  ],
+  "author": "Akhil Chaitanya Pola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsakhil/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/itsakhil/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+"browserslist": [
+  "last 2 Chrome versions"
+]
+    
+  
+}
