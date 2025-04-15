@@ -2,8 +2,12 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "React Learning",
-  "scripts": {
-    "test": "jest"
+  "scripts": {  
+    "test": "jest",
+    "devbuild": "parcel index.html",
+    "prodbuild": "parcel build index.html"
+    
+
   },
   "repository": {
     "type": "git",
